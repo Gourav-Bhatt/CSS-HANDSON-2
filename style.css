@@ -1,0 +1,120 @@
+
+
+body{
+    background-image: url("./bgimage.jpg");    
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px groove rgb(92, 255, 47);
+    margin: 0px;
+    padding: 15px;
+}
+
+
+
+
+.one{
+    height: 40%;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    color: white;
+    text-align: center;
+}
+.one1{
+    height: 5%;
+    width: 25%;
+    margin-top: 55px;
+    margin-left: 10px;
+    padding: 5px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    position: absolute;
+    top: 1%;
+    left: 15%;
+    color: white;
+    text-align: center;
+}
+.one2{
+    height: 10%;
+    width: 20%;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    color: white;
+    text-align: center;
+}
+#offer_circle{
+    background-color: rgba(8, 85, 8, 0.71);
+    border: 5px solid rgba(64, 64, 176, 0.783);
+    text-decoration: underline;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 200px 20px 130px 120px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.form{
+    height: 650px;
+    width: 400px;
+    background-color: white;
+    border: 5px dashed red;
+    padding: 10px;
+    position: absolute;
+    top: 200px;
+    right: 250px;
+    text-align: center;
+}
+._heading{
+    color:red;
+}
+
+.menu_section{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    border-radius: 30px;
+    width: 200px;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+    border: 2px solid green;
+    border-radius: 15px;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+.b{
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+    border: 2px solid green;
+    border-radius: 15px;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
